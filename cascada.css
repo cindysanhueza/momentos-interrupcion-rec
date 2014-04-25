@@ -1,54 +1,165 @@
 body{
 	background-image: url("dibujos/subtle_white_feathers_@2X.png");
-	background-repeat:no-repeat;
-	
-	background-attachment:fixed;
-	max-width: 1000%;
+	width: 100%;
+	size:9000px 1024;
+	height: 9000px;
 }
 
 
+h1{
+	font-family:sans-serif;
+	color: black;
+	margin-top:100px;
+	text-align: center;
 
 
-.altura{
+
+}
+
+.moment1{
 	position: absolute;
 	top:1000px;
+
+	
+
 	
 }
 
 .img1{
 	position: absolute;
 	z-index: 0;
-	size:500px;
-    margin-top: 10px;
-	margin-left: 400px;
+    margin-top: 259px;
 	margin-right: 0px;
 	margin-bottom: 200px;
+	margin-left: 0px;
+    
 }
 
 .img2{
 	position: absolute;
 	z-index: :1;
-	size:500px;
-    margin-top: 10px;
-	margin-left: 400px;
+	margin-top: 181px;
 	margin-right: 0px;
 	margin-bottom: 200px;
+	margin-left: 120px;
+	
+	
+}
+
+.img3{
+	position: absolute;
+	z-index: :2;
+	margin-top: 387px;
+	margin-right: 0px;
+	margin-bottom: 200px;
+	margin-left: 390px;
+	
+   
+}
+
+.moment2{
+	position: absolute;
+	top:1000px;
+	max-width: 500px;
+
+	
+}
+
+.img4{
+	position: absolute;
+	z-index: 1;
+	margin-top: 900px;
+	margin-right: 0px;
+	margin-bottom: 200px;
+	margin-left: 545px;
+	   
+}
+
+
+.img5{
+	position: absolute;
+	z-index: 0;
+	margin-top: 1106px;
+	margin-right: 0px;
+	margin-bottom: 200px;
+	margin-left: 30px;
+	
+    
 }
 
 
 
-h1{
-
+.moment3{
+	position: absolute;
+	top:1000px;
+	
 }
 
-h2{
 
+
+
+.img7{
+	
+	position: absolute;
+	z-index: 0;
+	margin-top: 3506px;
+	margin-right: 0px;
+	margin-bottom: 200px;
+	margin-left: 0px;
 }
 
-h3{
 
+.img8{
+	
+	position: absolute;
+	z-index: 0;
+	margin-top: 4106px;
+	margin-right: 0px;
+	margin-bottom: 200px;
+	margin-left: 380px;
 }
 
+.img9{
+	
+	position: absolute;
+	z-index: 3;
+	margin-top: 2900px;
+	margin-right: 0px;
+	margin-bottom: 200px;
+	margin-left: 550px;
+}
+
+.moment4{
+	position: absolute;
+	top:1000px;
+	
+}
+
+
+
+
+.img10{
+	
+	position: absolute;
+	z-index: 0;
+	margin-top: 5597px;
+	margin-right: 0px;
+	margin-bottom: 200px;
+	margin-left: 482px;
+}
+
+
+.img11{
+	
+	position: absolute;
+	z-index: 1;
+	margin-top:5651px;
+	margin-right: 0px;
+	margin-bottom: 200px;
+	margin-left: 380px;
+}
+
+/**
 p{
 	background-color: #edd3ff;
 	padding-top: 20;
@@ -61,4 +172,4 @@ p{
 }
 
 
-	
+	**/
